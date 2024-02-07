@@ -1,0 +1,18 @@
+body {
+    background-color: #2a2a2a;
+    color: white;
+}
+
+ul, ol, p {
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.heading {
+    font-family: Geneva;
+    font-size: 46px;
+}
+
+a {
+    color: white;
+}
