@@ -6,13 +6,32 @@ body {
 ul, ol, p {
     font-family: Helvetica;
     font-size: 24px;
+    width: fit-content;
+    margin: 0px auto;
 }
 
 .heading {
     font-family: Geneva;
     font-size: 46px;
+    text-align: center;
 }
 
 a {
     color: white;
+}
+
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+
+}
+
+p {
+    width: 600px;
 }
